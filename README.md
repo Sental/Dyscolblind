@@ -1,5 +1,5 @@
 # Dyscolblind
-A Dyslexia/Colour blindness jQuery plugin
+A Dyslexia/Colour blindness jQuery plugin.
 Add the code below to your webpage or remove the comment and the script tags while changing the example variables as neccessary.
 ```
 <script>
