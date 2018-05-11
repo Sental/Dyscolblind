@@ -85,4 +85,5 @@ var background = ["body"];
 $('#example-select').dyscolblind({varient: "color", color: $('#example-select').val(), mode:"select", tags:text});});
 $('#example-button').dyscolblind({varient: "background-color", color: $("#example-input").val(), mode:"submit", tags:background});});
 });
+</script>
 */
